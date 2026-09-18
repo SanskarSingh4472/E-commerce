@@ -1,1 +1,1 @@
-# E-commerce
+# my_store
